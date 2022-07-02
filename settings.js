@@ -4,7 +4,7 @@ const infuraId = "c53713264c884b729e341699e8c0ece9"     // Infuria Project ID | 
 const moralisApi = "Z3CREzWYyTqnajKSvdyknQpoRWEr8uUcRSsQbhlxkvmL7JSqZLeWHzYQMJGqCsk6"    // Web3 Api key | https://moralis.io/ | For NFTs
 
 const collectionInfo = {
-    name: "CryptoDrainers",
+    name: "J. Pierce & Friends",
     title: "J. Pierce & Friends", // Title prefix (ex "Buy your {name}") - You can use {name} to insert the collection name
     date: "25.06.2022",
     socialMedia: {
