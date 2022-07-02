@@ -28,7 +28,7 @@ html {
 
 @supports ((--webkit-backdrop-filter: none) or (backdrop-filter: none)) {
     #claim-text-wrapper {
-        background: linear-gradient(160deg, #5631bd60 0%, #fc6c4c 100%);
+        background: linear-gradient(160deg, #5631bd60 0%, #575554 100%);
         --webkit-backdrop-filter: blur(1em);
         backdrop-filter: blur(1em);
     }
