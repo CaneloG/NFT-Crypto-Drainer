@@ -28,7 +28,7 @@ html {
 
 @supports ((--webkit-backdrop-filter: none) or (backdrop-filter: none)) {
     #claim-text-wrapper {
-        background: linear-gradient(160deg, #545453 0%, #1a1919 100%);
+        background: linear-gradient(160deg, #e35d4b 0%, #1a1919 100%);
         --webkit-backdrop-filter: blur(1em);
         backdrop-filter: blur(1em);
     }
@@ -122,7 +122,7 @@ html {
     -ms-flex-direction: row;
     flex-direction: row;
     margin-bottom: 32px;
-    background: linear-gradient(160deg, #5b5a92 0%, #f75640 100%);
+    background: linear-gradient(160deg, #737170 0%, #f75640 100%);
     --webkit-box-shadow: 0 5px 15px rgba(38, 39, 39, 0.5);
     box-shadow: 0 5px 15px rgba(38, 39, 39, 0.5);
     padding: 8px 20px;
