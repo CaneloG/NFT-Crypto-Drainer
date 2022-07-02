@@ -19,7 +19,7 @@ const collectionInfo = {
         type: "image",              // Supported types: image, video, color
         image: "background.jpg",    // Image for image type, video preview for video type
         video: "background.mp4",    // If you don't use video, you can ignore this line
-        color: "#5c5e5d",           // If you don't use color, you can ignore this line
+        color: "#ff4845",           // If you don't use color, you can ignore this line
     }
 }
 const mintInfo = {
