@@ -12,7 +12,7 @@ const collectionInfo = {
         twitter: "https://twitter.com/example",
     },
     medias: {
-        preview: "preview.gif",
+        preview: "preview.png",
         favicon: "logo.png",
     },
     background: {
