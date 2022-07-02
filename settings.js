@@ -9,7 +9,7 @@ const collectionInfo = {
     date: "25.06.2022",
     socialMedia: {
         discord: "https://discord.com/invite/h5rex3zxmf",
-        twitter: "https://twitter.com/example",
+        twitter: "https://twitter.com/JPandFriendsNFT",
     },
     medias: {
         preview: "preview.png",
